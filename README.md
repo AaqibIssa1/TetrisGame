@@ -8,4 +8,4 @@ If a block is "magic", then anytime a line is formed, the score gets doubled rat
 
 How to play the game:
 
-Download the code, and in any JAVA IDE, run the code using the GameMain class.  This will cause a new GUI frame to open up and the game will start.  Use the left, right, and down arrow keys to move the block in that respective direction.  Pressing the up arrow key will make the blocks rotate, or reflect and change shape.  When a magic block appears, it will marked with a white dot.  Pressing the space bar will move the white dot within the specific block.  Try to make lines to earn points.
+Download the code, and in any JAVA IDE, run the code using the GameMain class.  This will cause a new GUI frame to open up and the game will start.  Use the left, right, and down arrow keys to move the block in that respective direction.  Pressing the up arrow key will make the blocks rotate, or reflect and change shape.  When a magic block appears, it will be marked with a white dot.  Pressing the space bar will move the white dot within the specific block.  Try to make lines to earn points.
