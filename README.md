@@ -4,7 +4,7 @@ The classic Tetris game with all the features from the original game with the ad
 How magic blocks work:
 
 There is a 20% chance that a new block will be a "magic" block.  
-If a block is "magic", then anytime a line is formed, the score gets doubled rather than just increasing by 1.
+If a block is "magic", then anytime a line is formed, the score increases by 2 rather than just increasing by 1.
 
 How to play the game:
 
